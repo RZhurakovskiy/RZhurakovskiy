@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Roman Zhurakovskiy, React, Next.js and Mobile Fullstack Developer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000"/><stop offset="0.25" stop-color="#fff"/><stop offset="0.75" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="m"><rect width="1000" height="260" fill="url(#fade)"/></mask>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0d1117" stop-opacity="0.92"/><stop offset="0.7" stop-color="#0d1117" stop-opacity="0.6"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#61dafb"/><stop offset="1" stop-color="#42b883"/></linearGradient>
+<filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<style>
+.col{animation-name:fall;animation-timing-function:linear;animation-iteration-count:infinite}
+@keyframes fall{from{transform:translateY(0)}to{transform:translateY(288px)}}
+.t{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace}
+@media (prefers-reduced-motion:reduce){.col{animation:none}}
+</style>
+<rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+<g mask="url(#m)">
+<g class="col" style="animation-duration:9.3s;animation-delay:-1.4s">
+<text class="t" x="14" y="-274" font-size="11" fill="#9ca3af" opacity="0.67">async function</text>
+<text class="t" x="14" y="-256" font-size="11" fill="#ffffff" opacity="0.48">await fetch(url)</text>
+<text class="t" x="14" y="-238" font-size="11" fill="#ffffff" opacity="0.48">npm run dev</text>
+<text class="t" x="14" y="-220" font-size="11" fill="#9ca3af" opacity="0.29">onClick={fn}</text>
+<text class="t" x="14" y="-202" font-size="11" fill="#9ca3af" opacity="0.25">async function</text>
+<text class="t" x="14" y="-184" font-size="11" fill="#9ca3af" opacity="0.46">prisma.user.find</text>
+<text class="t" x="14" y="-166" font-size="11" fill="#9ca3af" opacity="0.47">export default</text>
+<text class="t" x="14" y="-148" font-size="11" fill="#9ca3af" opacity="0.23">return &lt;App /&gt;</text>
+<text class="t" x="14" y="-130" font-size="11" fill="#ffffff" opacity="0.28">SELECT * FROM</text>
+<text class="t" x="14" y="-112" font-size="11" fill="#9ca3af" opacity="0.55">git push origin</text>
+<text class="t" x="14" y="-94" font-size="11" fill="#9ca3af" opacity="0.5">await fetch(url)</text>
+<text class="t" x="14" y="-76" font-size="11" fill="#9ca3af" opacity="0.46">&lt;Suspense&gt;</text>
+<text class="t" x="14" y="-58" font-size="11" fill="#9ca3af" opacity="0.42">return &lt;App /&gt;</text>
+<text class="t" x="14" y="-40" font-size="11" fill="#9ca3af" opacity="0.37">SELECT * FROM</text>
+<text class="t" x="14" y="-22" font-size="11" fill="#9ca3af" opacity="0.27">async function</text>
+<text class="t" x="14" y="-4" font-size="11" fill="#9ca3af" opacity="0.22">import React</text>
+<text class="t" x="14" y="14" font-size="11" fill="#9ca3af" opacity="0.44">async function</text>
+<text class="t" x="14" y="32" font-size="11" fill="#9ca3af" opacity="0.41">await fetch(url)</text>
+<text class="t" x="14" y="50" font-size="11" fill="#9ca3af" opacity="0.22">npm run dev</text>
+<text class="t" x="14" y="68" font-size="11" fill="#9ca3af" opacity="0.27">onClick={fn}</text>
+<text class="t" x="14" y="86" font-size="11" fill="#9ca3af" opacity="0.67">async function</text>
+<text class="t" x="14" y="104" font-size="11" fill="#ffffff" opacity="0.68">prisma.user.find</text>
+<text class="t" x="14" y="122" font-size="11" fill="#9ca3af" opacity="0.47">export default</text>
+<text class="t" x="14" y="140" font-size="11" fill="#9ca3af" opacity="0.61">return &lt;App /&gt;</text>
+<text class="t" x="14" y="158" font-size="11" fill="#9ca3af" opacity="0.36">SELECT * FROM</text>
+<text class="t" x="14" y="176" font-size="11" fill="#ffffff" opacity="0.59">git push origin</text>
+<text class="t" x="14" y="194" font-size="11" fill="#9ca3af" opacity="0.23">await fetch(url)</text>
+<text class="t" x="14" y="212" font-size="11" fill="#ffffff" opacity="0.54">&lt;Suspense&gt;</text>
+<text class="t" x="14" y="230" font-size="11" fill="#9ca3af" opacity="0.56">return &lt;App /&gt;</text>
+<text class="t" x="14" y="248" font-size="11" fill="#9ca3af" opacity="0.48">SELECT * FROM</text>
+<text class="t" x="14" y="266" font-size="11" fill="#9ca3af" opacity="0.41">async function</text>
+<text class="t" x="14" y="284" font-size="11" fill="#9ca3af" opacity="0.64">import React</text>
+</g>
+<g class="col" style="animation-duration:13.6s;animation-delay:-4.8s">
+<text class="t" x="139" y="-274" font-size="11" fill="#9ca3af" opacity="0.61">import React</text>
+<text class="t" x="139" y="-256" font-size="11" fill="#9ca3af" opacity="0.32">export async</text>
+<text class="t" x="139" y="-238" font-size="11" fill="#9ca3af" opacity="0.37">async function</text>
+<text class="t" x="139" y="-220" font-size="11" fill="#9ca3af" opacity="0.68">prisma.user.find</text>
+<text class="t" x="139" y="-202" font-size="11" fill="#9ca3af" opacity="0.27">map(item =&gt; (</text>
+<text class="t" x="139" y="-184" font-size="11" fill="#9ca3af" opacity="0.3">const data = []</text>
+<text class="t" x="139" y="-166" font-size="11" fill="#9ca3af" opacity="0.49">&lt;Suspense&gt;</text>
+<text class="t" x="139" y="-148" font-size="11" fill="#9ca3af" opacity="0.18">createRoot(el)</text>
+<text class="t" x="139" y="-130" font-size="11" fill="#9ca3af" opacity="0.37">createRoot(el)</text>
+<text class="t" x="139" y="-112" font-size="11" fill="#9ca3af" opacity="0.68">export async</text>
+<text class="t" x="139" y="-94" font-size="11" fill="#9ca3af" opacity="0.45">return &lt;App /&gt;</text>
+<text class="t" x="139" y="-76" font-size="11" fill="#ffffff" opacity="0.53">interface User</text>
+<text class="t" x="139" y="-58" font-size="11" fill="#9ca3af" opacity="0.65">useRef(null)</text>
+<text class="t" x="139" y="-40" font-size="11" fill="#9ca3af" opacity="0.63">createRoot(el)</text>
+<text class="t" x="139" y="-22" font-size="11" fill="#9ca3af" opacity="0.38">useMemo(() =&gt;</text>
+<text class="t" x="139" y="-4" font-size="11" fill="#9ca3af" opacity="0.23">const data = []</text>
+<text class="t" x="139" y="14" font-size="11" fill="#ffffff" opacity="0.21">import React</text>
+<text class="t" x="139" y="32" font-size="11" fill="#9ca3af" opacity="0.29">export async</text>
+<text class="t" x="139" y="50" font-size="11" fill="#ffffff" opacity="0.36">async function</text>
+<text class="t" x="139" y="68" font-size="11" fill="#9ca3af" opacity="0.18">prisma.user.find</text>
+<text class="t" x="139" y="86" font-size="11" fill="#9ca3af" opacity="0.23">map(item =&gt; (</text>
+<text class="t" x="139" y="104" font-size="11" fill="#9ca3af" opacity="0.19">const data = []</text>
+<text class="t" x="139" y="122" font-size="11" fill="#ffffff" opacity="0.5">&lt;Suspense&gt;</text>
+<text class="t" x="139" y="140" font-size="11" fill="#9ca3af" opacity="0.31">createRoot(el)</text>
+<text class="t" x="139" y="158" font-size="11" fill="#ffffff" opacity="0.37">createRoot(el)</text>
+<text class="t" x="139" y="176" font-size="11" fill="#9ca3af" opacity="0.62">export async</text>
+<text class="t" x="139" y="194" font-size="11" fill="#9ca3af" opacity="0.42">return &lt;App /&gt;</text>
+<text class="t" x="139" y="212" font-size="11" fill="#ffffff" opacity="0.22">interface User</text>
+<text class="t" x="139" y="230" font-size="11" fill="#9ca3af" opacity="0.36">useRef(null)</text>
+<text class="t" x="139" y="248" font-size="11" fill="#9ca3af" opacity="0.61">createRoot(el)</text>
+<text class="t" x="139" y="266" font-size="11" fill="#9ca3af" opacity="0.19">useMemo(() =&gt;</text>
+<text class="t" x="139" y="284" font-size="11" fill="#ffffff" opacity="0.45">const data = []</text>
+</g>
+<g class="col" style="animation-duration:10.8s;animation-delay:-0.3s">
+<text class="t" x="264" y="-274" font-size="11" fill="#9ca3af" opacity="0.56">res.json(data)</text>
+<text class="t" x="264" y="-256" font-size="11" fill="#9ca3af" opacity="0.59">return &lt;App /&gt;</text>
+<text class="t" x="264" y="-238" font-size="11" fill="#9ca3af" opacity="0.28">use server</text>
+<text class="t" x="264" y="-220" font-size="11" fill="#9ca3af" opacity="0.36">onClick={fn}</text>
+<text class="t" x="264" y="-202" font-size="11" fill="#9ca3af" opacity="0.56">interface User</text>
+<text class="t" x="264" y="-184" font-size="11" fill="#ffffff" opacity="0.69">defer db.Close()</text>
+<text class="t" x="264" y="-166" font-size="11" fill="#9ca3af" opacity="0.23">next build</text>
+<text class="t" x="264" y="-148" font-size="11" fill="#9ca3af" opacity="0.36">go run main.go</text>
+<text class="t" x="264" y="-130" font-size="11" fill="#9ca3af" opacity="0.69">next build</text>
+<text class="t" x="264" y="-112" font-size="11" fill="#9ca3af" opacity="0.18">app.Get("/", h)</text>
+<text class="t" x="264" y="-94" font-size="11" fill="#9ca3af" opacity="0.36">&lt;Suspense&gt;</text>
+<text class="t" x="264" y="-76" font-size="11" fill="#ffffff" opacity="0.61">createRoot(el)</text>
+<text class="t" x="264" y="-58" font-size="11" fill="#9ca3af" opacity="0.38">next build</text>
+<text class="t" x="264" y="-40" font-size="11" fill="#9ca3af" opacity="0.28">app.Get("/", h)</text>
+<text class="t" x="264" y="-22" font-size="11" fill="#9ca3af" opacity="0.41">export async</text>
+<text class="t" x="264" y="-4" font-size="11" fill="#9ca3af" opacity="0.23">defer db.Close()</text>
+<text class="t" x="264" y="14" font-size="11" fill="#9ca3af" opacity="0.56">res.json(data)</text>
+<text class="t" x="264" y="32" font-size="11" fill="#ffffff" opacity="0.57">return &lt;App /&gt;</text>
+<text class="t" x="264" y="50" font-size="11" fill="#9ca3af" opacity="0.26">use server</text>
+<text class="t" x="264" y="68" font-size="11" fill="#9ca3af" opacity="0.19">onClick={fn}</text>
+<text class="t" x="264" y="86" font-size="11" fill="#9ca3af" opacity="0.42">interface User</text>
+<text class="t" x="264" y="104" font-size="11" fill="#9ca3af" opacity="0.5">defer db.Close()</text>
+<text class="t" x="264" y="122" font-size="11" fill="#9ca3af" opacity="0.43">next build</text>
+<text class="t" x="264" y="140" font-size="11" fill="#9ca3af" opacity="0.26">go run main.go</text>
+<text class="t" x="264" y="158" font-size="11" fill="#9ca3af" opacity="0.19">next build</text>
+<text class="t" x="264" y="176" font-size="11" fill="#ffffff" opacity="0.56">app.Get("/", h)</text>
+<text class="t" x="264" y="194" font-size="11" fill="#ffffff" opacity="0.57">&lt;Suspense&gt;</text>
+<text class="t" x="264" y="212" font-size="11" fill="#9ca3af" opacity="0.69">createRoot(el)</text>
+<text class="t" x="264" y="230" font-size="11" fill="#ffffff" opacity="0.63">next build</text>
+<text class="t" x="264" y="248" font-size="11" fill="#9ca3af" opacity="0.29">app.Get("/", h)</text>
+<text class="t" x="264" y="266" font-size="11" fill="#9ca3af" opacity="0.58">export async</text>
+<text class="t" x="264" y="284" font-size="11" fill="#9ca3af" opacity="0.46">defer db.Close()</text>
+</g>
+<g class="col" style="animation-duration:7.4s;animation-delay:-5.5s">
+<text class="t" x="389" y="-274" font-size="11" fill="#ffffff" opacity="0.64">git push origin</text>
+<text class="t" x="389" y="-256" font-size="11" fill="#ffffff" opacity="0.28">const data = []</text>
+<text class="t" x="389" y="-238" font-size="11" fill="#42b883" opacity="0.23">type Props = {</text>
+<text class="t" x="389" y="-220" font-size="11" fill="#42b883" opacity="0.19">useEffect(() =&gt;</text>
+<text class="t" x="389" y="-202" font-size="11" fill="#42b883" opacity="0.21">useRef(null)</text>
+<text class="t" x="389" y="-184" font-size="11" fill="#42b883" opacity="0.69">func main() {</text>
+<text class="t" x="389" y="-166" font-size="11" fill="#42b883" opacity="0.28">useState(0)</text>
+<text class="t" x="389" y="-148" font-size="11" fill="#42b883" opacity="0.44">type Props = {</text>
+<text class="t" x="389" y="-130" font-size="11" fill="#42b883" opacity="0.44">func main() {</text>
+<text class="t" x="389" y="-112" font-size="11" fill="#42b883" opacity="0.45">type Props = {</text>
+<text class="t" x="389" y="-94" font-size="11" fill="#42b883" opacity="0.66">const [a, b] =</text>
+<text class="t" x="389" y="-76" font-size="11" fill="#42b883" opacity="0.64">import React</text>
+<text class="t" x="389" y="-58" font-size="11" fill="#42b883" opacity="0.41">async function</text>
+<text class="t" x="389" y="-40" font-size="11" fill="#42b883" opacity="0.38">export const GET</text>
+<text class="t" x="389" y="-22" font-size="11" fill="#42b883" opacity="0.53">const [a, b] =</text>
+<text class="t" x="389" y="-4" font-size="11" fill="#42b883" opacity="0.29">npm run dev</text>
+<text class="t" x="389" y="14" font-size="11" fill="#42b883" opacity="0.24">git push origin</text>
+<text class="t" x="389" y="32" font-size="11" fill="#42b883" opacity="0.67">const data = []</text>
+<text class="t" x="389" y="50" font-size="11" fill="#42b883" opacity="0.37">type Props = {</text>
+<text class="t" x="389" y="68" font-size="11" fill="#42b883" opacity="0.25">useEffect(() =&gt;</text>
+<text class="t" x="389" y="86" font-size="11" fill="#ffffff" opacity="0.57">useRef(null)</text>
+<text class="t" x="389" y="104" font-size="11" fill="#42b883" opacity="0.64">func main() {</text>
+<text class="t" x="389" y="122" font-size="11" fill="#42b883" opacity="0.53">useState(0)</text>
+<text class="t" x="389" y="140" font-size="11" fill="#42b883" opacity="0.55">type Props = {</text>
+<text class="t" x="389" y="158" font-size="11" fill="#42b883" opacity="0.39">func main() {</text>
+<text class="t" x="389" y="176" font-size="11" fill="#ffffff" opacity="0.37">type Props = {</text>
+<text class="t" x="389" y="194" font-size="11" fill="#42b883" opacity="0.37">const [a, b] =</text>
+<text class="t" x="389" y="212" font-size="11" fill="#42b883" opacity="0.42">import React</text>
+<text class="t" x="389" y="230" font-size="11" fill="#42b883" opacity="0.38">async function</text>
+<text class="t" x="389" y="248" font-size="11" fill="#42b883" opacity="0.33">export const GET</text>
+<text class="t" x="389" y="266" font-size="11" fill="#42b883" opacity="0.24">const [a, b] =</text>
+<text class="t" x="389" y="284" font-size="11" fill="#42b883" opacity="0.3">npm run dev</text>
+</g>
+<g class="col" style="animation-duration:7.6s;animation-delay:-2.1s">
+<text class="t" x="514" y="-274" font-size="11" fill="#61dafb" opacity="0.51">useMemo(() =&gt;</text>
+<text class="t" x="514" y="-256" font-size="11" fill="#61dafb" opacity="0.22">const data = []</text>
+<text class="t" x="514" y="-238" font-size="11" fill="#61dafb" opacity="0.21">SELECT * FROM</text>
+<text class="t" x="514" y="-220" font-size="11" fill="#61dafb" opacity="0.42">use server</text>
+<text class="t" x="514" y="-202" font-size="11" fill="#61dafb" opacity="0.47">createRoot(el)</text>
+<text class="t" x="514" y="-184" font-size="11" fill="#ffffff" opacity="0.32">type Props = {</text>
+<text class="t" x="514" y="-166" font-size="11" fill="#61dafb" opacity="0.45">export async</text>
+<text class="t" x="514" y="-148" font-size="11" fill="#61dafb" opacity="0.24">export const GET</text>
+<text class="t" x="514" y="-130" font-size="11" fill="#61dafb" opacity="0.21">return &lt;App /&gt;</text>
+<text class="t" x="514" y="-112" font-size="11" fill="#61dafb" opacity="0.34">useMemo(() =&gt;</text>
+<text class="t" x="514" y="-94" font-size="11" fill="#61dafb" opacity="0.57">async function</text>
+<text class="t" x="514" y="-76" font-size="11" fill="#61dafb" opacity="0.44">func main() {</text>
+<text class="t" x="514" y="-58" font-size="11" fill="#ffffff" opacity="0.36">SELECT * FROM</text>
+<text class="t" x="514" y="-40" font-size="11" fill="#ffffff" opacity="0.31">await fetch(url)</text>
+<text class="t" x="514" y="-22" font-size="11" fill="#61dafb" opacity="0.56">useMemo(() =&gt;</text>
+<text class="t" x="514" y="-4" font-size="11" fill="#61dafb" opacity="0.28">useEffect(() =&gt;</text>
+<text class="t" x="514" y="14" font-size="11" fill="#ffffff" opacity="0.67">useMemo(() =&gt;</text>
+<text class="t" x="514" y="32" font-size="11" fill="#61dafb" opacity="0.61">const data = []</text>
+<text class="t" x="514" y="50" font-size="11" fill="#61dafb" opacity="0.44">SELECT * FROM</text>
+<text class="t" x="514" y="68" font-size="11" fill="#61dafb" opacity="0.38">use server</text>
+<text class="t" x="514" y="86" font-size="11" fill="#61dafb" opacity="0.54">createRoot(el)</text>
+<text class="t" x="514" y="104" font-size="11" fill="#61dafb" opacity="0.36">type Props = {</text>
+<text class="t" x="514" y="122" font-size="11" fill="#61dafb" opacity="0.55">export async</text>
+<text class="t" x="514" y="140" font-size="11" fill="#61dafb" opacity="0.39">export const GET</text>
+<text class="t" x="514" y="158" font-size="11" fill="#ffffff" opacity="0.21">return &lt;App /&gt;</text>
+<text class="t" x="514" y="176" font-size="11" fill="#61dafb" opacity="0.22">useMemo(() =&gt;</text>
+<text class="t" x="514" y="194" font-size="11" fill="#61dafb" opacity="0.31">async function</text>
+<text class="t" x="514" y="212" font-size="11" fill="#61dafb" opacity="0.22">func main() {</text>
+<text class="t" x="514" y="230" font-size="11" fill="#61dafb" opacity="0.63">SELECT * FROM</text>
+<text class="t" x="514" y="248" font-size="11" fill="#61dafb" opacity="0.33">await fetch(url)</text>
+<text class="t" x="514" y="266" font-size="11" fill="#61dafb" opacity="0.33">useMemo(() =&gt;</text>
+<text class="t" x="514" y="284" font-size="11" fill="#61dafb" opacity="0.26">useEffect(() =&gt;</text>
+</g>
+<g class="col" style="animation-duration:8.8s;animation-delay:-8.5s">
+<text class="t" x="639" y="-274" font-size="11" fill="#9ca3af" opacity="0.23">export const GET</text>
+<text class="t" x="639" y="-256" font-size="11" fill="#9ca3af" opacity="0.25">&lt;Suspense&gt;</text>
+<text class="t" x="639" y="-238" font-size="11" fill="#9ca3af" opacity="0.38">export default</text>
+<text class="t" x="639" y="-220" font-size="11" fill="#ffffff" opacity="0.51">res.json(data)</text>
+<text class="t" x="639" y="-202" font-size="11" fill="#9ca3af" opacity="0.68">prisma.user.find</text>
+<text class="t" x="639" y="-184" font-size="11" fill="#9ca3af" opacity="0.26">defer db.Close()</text>
+<text class="t" x="639" y="-166" font-size="11" fill="#9ca3af" opacity="0.59">func main() {</text>
+<text class="t" x="639" y="-148" font-size="11" fill="#9ca3af" opacity="0.58">useState(0)</text>
+<text class="t" x="639" y="-130" font-size="11" fill="#9ca3af" opacity="0.44">go run main.go</text>
+<text class="t" x="639" y="-112" font-size="11" fill="#ffffff" opacity="0.5">await prisma</text>
+<text class="t" x="639" y="-94" font-size="11" fill="#9ca3af" opacity="0.61">return &lt;App /&gt;</text>
+<text class="t" x="639" y="-76" font-size="11" fill="#9ca3af" opacity="0.45">const [a, b] =</text>
+<text class="t" x="639" y="-58" font-size="11" fill="#9ca3af" opacity="0.54">useMemo(() =&gt;</text>
+<text class="t" x="639" y="-40" font-size="11" fill="#9ca3af" opacity="0.65">app.Get("/", h)</text>
+<text class="t" x="639" y="-22" font-size="11" fill="#9ca3af" opacity="0.48">&lt;Suspense&gt;</text>
+<text class="t" x="639" y="-4" font-size="11" fill="#9ca3af" opacity="0.19">useState(0)</text>
+<text class="t" x="639" y="14" font-size="11" fill="#9ca3af" opacity="0.59">export const GET</text>
+<text class="t" x="639" y="32" font-size="11" fill="#9ca3af" opacity="0.68">&lt;Suspense&gt;</text>
+<text class="t" x="639" y="50" font-size="11" fill="#ffffff" opacity="0.22">export default</text>
+<text class="t" x="639" y="68" font-size="11" fill="#9ca3af" opacity="0.51">res.json(data)</text>
+<text class="t" x="639" y="86" font-size="11" fill="#9ca3af" opacity="0.38">prisma.user.find</text>
+<text class="t" x="639" y="104" font-size="11" fill="#ffffff" opacity="0.21">defer db.Close()</text>
+<text class="t" x="639" y="122" font-size="11" fill="#9ca3af" opacity="0.46">func main() {</text>
+<text class="t" x="639" y="140" font-size="11" fill="#9ca3af" opacity="0.32">useState(0)</text>
+<text class="t" x="639" y="158" font-size="11" fill="#9ca3af" opacity="0.22">go run main.go</text>
+<text class="t" x="639" y="176" font-size="11" fill="#ffffff" opacity="0.65">await prisma</text>
+<text class="t" x="639" y="194" font-size="11" fill="#9ca3af" opacity="0.45">return &lt;App /&gt;</text>
+<text class="t" x="639" y="212" font-size="11" fill="#9ca3af" opacity="0.43">const [a, b] =</text>
+<text class="t" x="639" y="230" font-size="11" fill="#9ca3af" opacity="0.62">useMemo(() =&gt;</text>
+<text class="t" x="639" y="248" font-size="11" fill="#9ca3af" opacity="0.57">app.Get("/", h)</text>
+<text class="t" x="639" y="266" font-size="11" fill="#9ca3af" opacity="0.52">&lt;Suspense&gt;</text>
+<text class="t" x="639" y="284" font-size="11" fill="#ffffff" opacity="0.62">useState(0)</text>
+</g>
+<g class="col" style="animation-duration:13.4s;animation-delay:-3.9s">
+<text class="t" x="764" y="-274" font-size="11" fill="#61dafb" opacity="0.55">app.Get("/", h)</text>
+<text class="t" x="764" y="-256" font-size="11" fill="#61dafb" opacity="0.42">await fetch(url)</text>
+<text class="t" x="764" y="-238" font-size="11" fill="#61dafb" opacity="0.7">type Props = {</text>
+<text class="t" x="764" y="-220" font-size="11" fill="#ffffff" opacity="0.34">go run main.go</text>
+<text class="t" x="764" y="-202" font-size="11" fill="#61dafb" opacity="0.43">use server</text>
+<text class="t" x="764" y="-184" font-size="11" fill="#61dafb" opacity="0.22">res.json(data)</text>
+<text class="t" x="764" y="-166" font-size="11" fill="#61dafb" opacity="0.7">const data = []</text>
+<text class="t" x="764" y="-148" font-size="11" fill="#61dafb" opacity="0.38">useState(0)</text>
+<text class="t" x="764" y="-130" font-size="11" fill="#ffffff" opacity="0.66">const [a, b] =</text>
+<text class="t" x="764" y="-112" font-size="11" fill="#61dafb" opacity="0.23">async function</text>
+<text class="t" x="764" y="-94" font-size="11" fill="#61dafb" opacity="0.32">export async</text>
+<text class="t" x="764" y="-76" font-size="11" fill="#61dafb" opacity="0.49">useMemo(() =&gt;</text>
+<text class="t" x="764" y="-58" font-size="11" fill="#ffffff" opacity="0.33">npm run dev</text>
+<text class="t" x="764" y="-40" font-size="11" fill="#61dafb" opacity="0.37">prisma.user.find</text>
+<text class="t" x="764" y="-22" font-size="11" fill="#61dafb" opacity="0.64">export async</text>
+<text class="t" x="764" y="-4" font-size="11" fill="#61dafb" opacity="0.26">map(item =&gt; (</text>
+<text class="t" x="764" y="14" font-size="11" fill="#61dafb" opacity="0.53">app.Get("/", h)</text>
+<text class="t" x="764" y="32" font-size="11" fill="#61dafb" opacity="0.56">await fetch(url)</text>
+<text class="t" x="764" y="50" font-size="11" fill="#ffffff" opacity="0.38">type Props = {</text>
+<text class="t" x="764" y="68" font-size="11" fill="#61dafb" opacity="0.35">go run main.go</text>
+<text class="t" x="764" y="86" font-size="11" fill="#61dafb" opacity="0.36">use server</text>
+<text class="t" x="764" y="104" font-size="11" fill="#61dafb" opacity="0.67">res.json(data)</text>
+<text class="t" x="764" y="122" font-size="11" fill="#61dafb" opacity="0.19">const data = []</text>
+<text class="t" x="764" y="140" font-size="11" fill="#ffffff" opacity="0.31">useState(0)</text>
+<text class="t" x="764" y="158" font-size="11" fill="#61dafb" opacity="0.38">const [a, b] =</text>
+<text class="t" x="764" y="176" font-size="11" fill="#61dafb" opacity="0.22">async function</text>
+<text class="t" x="764" y="194" font-size="11" fill="#61dafb" opacity="0.57">export async</text>
+<text class="t" x="764" y="212" font-size="11" fill="#ffffff" opacity="0.33">useMemo(() =&gt;</text>
+<text class="t" x="764" y="230" font-size="11" fill="#61dafb" opacity="0.52">npm run dev</text>
+<text class="t" x="764" y="248" font-size="11" fill="#61dafb" opacity="0.26">prisma.user.find</text>
+<text class="t" x="764" y="266" font-size="11" fill="#61dafb" opacity="0.41">export async</text>
+<text class="t" x="764" y="284" font-size="11" fill="#61dafb" opacity="0.58">map(item =&gt; (</text>
+</g>
+<g class="col" style="animation-duration:10.0s;animation-delay:-0.3s">
+<text class="t" x="889" y="-274" font-size="11" fill="#9ca3af" opacity="0.33">createRoot(el)</text>
+<text class="t" x="889" y="-256" font-size="11" fill="#9ca3af" opacity="0.69">prisma.user.find</text>
+<text class="t" x="889" y="-238" font-size="11" fill="#9ca3af" opacity="0.52">return &lt;App /&gt;</text>
+<text class="t" x="889" y="-220" font-size="11" fill="#9ca3af" opacity="0.47">async function</text>
+<text class="t" x="889" y="-202" font-size="11" fill="#9ca3af" opacity="0.27">git push origin</text>
+<text class="t" x="889" y="-184" font-size="11" fill="#9ca3af" opacity="0.29">useRef(null)</text>
+<text class="t" x="889" y="-166" font-size="11" fill="#9ca3af" opacity="0.44">const data = []</text>
+<text class="t" x="889" y="-148" font-size="11" fill="#9ca3af" opacity="0.65">map(item =&gt; (</text>
+<text class="t" x="889" y="-130" font-size="11" fill="#ffffff" opacity="0.41">export async</text>
+<text class="t" x="889" y="-112" font-size="11" fill="#ffffff" opacity="0.28">async function</text>
+<text class="t" x="889" y="-94" font-size="11" fill="#ffffff" opacity="0.36">const data = []</text>
+<text class="t" x="889" y="-76" font-size="11" fill="#9ca3af" opacity="0.3">interface User</text>
+<text class="t" x="889" y="-58" font-size="11" fill="#9ca3af" opacity="0.48">const [a, b] =</text>
+<text class="t" x="889" y="-40" font-size="11" fill="#9ca3af" opacity="0.57">git push origin</text>
+<text class="t" x="889" y="-22" font-size="11" fill="#9ca3af" opacity="0.4">go run main.go</text>
+<text class="t" x="889" y="-4" font-size="11" fill="#9ca3af" opacity="0.38">map(item =&gt; (</text>
+<text class="t" x="889" y="14" font-size="11" fill="#9ca3af" opacity="0.21">createRoot(el)</text>
+<text class="t" x="889" y="32" font-size="11" fill="#ffffff" opacity="0.68">prisma.user.find</text>
+<text class="t" x="889" y="50" font-size="11" fill="#9ca3af" opacity="0.44">return &lt;App /&gt;</text>
+<text class="t" x="889" y="68" font-size="11" fill="#9ca3af" opacity="0.63">async function</text>
+<text class="t" x="889" y="86" font-size="11" fill="#9ca3af" opacity="0.32">git push origin</text>
+<text class="t" x="889" y="104" font-size="11" fill="#9ca3af" opacity="0.39">useRef(null)</text>
+<text class="t" x="889" y="122" font-size="11" fill="#9ca3af" opacity="0.68">const data = []</text>
+<text class="t" x="889" y="140" font-size="11" fill="#ffffff" opacity="0.63">map(item =&gt; (</text>
+<text class="t" x="889" y="158" font-size="11" fill="#9ca3af" opacity="0.2">export async</text>
+<text class="t" x="889" y="176" font-size="11" fill="#9ca3af" opacity="0.65">async function</text>
+<text class="t" x="889" y="194" font-size="11" fill="#ffffff" opacity="0.49">const data = []</text>
+<text class="t" x="889" y="212" font-size="11" fill="#9ca3af" opacity="0.38">interface User</text>
+<text class="t" x="889" y="230" font-size="11" fill="#9ca3af" opacity="0.61">const [a, b] =</text>
+<text class="t" x="889" y="248" font-size="11" fill="#9ca3af" opacity="0.69">git push origin</text>
+<text class="t" x="889" y="266" font-size="11" fill="#9ca3af" opacity="0.24">go run main.go</text>
+<text class="t" x="889" y="284" font-size="11" fill="#9ca3af" opacity="0.45">map(item =&gt; (</text>
+</g>
+</g>
+<ellipse cx="500.0" cy="130.0" rx="400" ry="105" fill="url(#glow)"/>
+<text class="t" x="500.0" y="125" text-anchor="middle" font-size="50" font-weight="700" fill="#61dafb" filter="url(#blur)" opacity="0.5">Roman Zhurakovskiy</text>
+<text class="t" x="500.0" y="125" text-anchor="middle" font-size="50" font-weight="700" fill="url(#title)">Roman Zhurakovskiy</text>
+<text class="t" x="500.0" y="168" text-anchor="middle" font-size="19" fill="#e5e7eb">React  /  Next.js  /  Mobile  /  Fullstack</text>
+<rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#1f2937"/>
+</svg>

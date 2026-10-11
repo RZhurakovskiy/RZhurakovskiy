@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Roman%20Zhurakovskiy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descSize=22&descAlignY=60" alt="Roman Zhurakovskiy" width="100%" />
+<img src="assets/code-stream.svg" alt="Roman Zhurakovskiy, React, Next.js and Mobile Fullstack Developer" width="100%" />
 
 <a href="https://github.com/RZhurakovskiy">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=42B883&center=true&vCenter=true&width=640&height=40&lines=Fullstack+developer+from+Russia%3BVue+3+and+React+on+the+frontend%3BNext.js%2C+Go+and+PostgreSQL+on+the+backend%3BBuilding+MES+systems+for+industry%3BWorking+on+my+own+products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=61DAFB&center=true&vCenter=true&width=700&height=40&lines=Fullstack+developer+from+Russia%3BReact+and+Next.js+on+the+web%3BReact+Native+and+Expo+on+mobile%3BGo+and+PostgreSQL+on+the+backend%3BBuilding+MES+systems+for+industry%3BWorking+on+my+own+products" alt="Typing animation" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/Vue.js-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-<img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Native" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vue.js-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
 <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
@@ -27,59 +28,67 @@
 <a href="#stack"><img src="https://img.shields.io/badge/Stack-1f2937?style=flat-square" alt="Stack" /></a>
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-1f2937?style=flat-square" alt="Projects" /></a>
 <a href="#stats"><img src="https://img.shields.io/badge/Stats-1f2937?style=flat-square" alt="Stats" /></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-1f2937?style=flat-square" alt="Roadmap" /></a>
 
 </div>
 
 <br />
 
 <div align="center">
-  <img id="about" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42b883&text=About%20%2F%20Обо%20мне&height=90&fontSize=34&fontAlignY=50" alt="About" />
+  <img id="about" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61dafb&text=About%20%2F%20Обо%20мне&height=90&fontSize=34&fontAlignY=50" alt="About" />
 </div>
 
 ```ts
 const roman = {
   role: "Fullstack Developer",
-  experience: "3+ years, mostly frontend",
+  experience: "3+ years",
   domain: "MES systems for industry",
-  frontend: ["Vue 3", "React", "TypeScript"],
-  backend: ["Next.js", "Prisma", "PostgreSQL", "Go (Fiber)"],
-  learning: ["JavaScript Core", "TypeScript", "React"],
+  web: ["React", "Next.js", "TypeScript", "Vue 3"],
+  mobile: ["React Native", "Expo"],
+  backend: ["Go (Fiber)", "Prisma", "PostgreSQL"],
   goal: "launch my own product",
 }
 ```
 
-**Русский.** Fullstack-разработчик, больше 3 лет коммерческого опыта, основной упор на фронтенд. Делаю MES-системы для промышленности и сам веду весь цикл: от сбора требований до тестирования на производстве. До разработки работал на заводе, поэтому знаю, как софт выглядит с точки зрения цеха, а не только кода. Самоучка. Сейчас системно углубляю JavaScript, перехожу на TypeScript и React и параллельно делаю собственные продукты.
+**Русский.** Fullstack-разработчик, больше 3 лет коммерческого опыта. Делаю MES-системы для промышленности и сам веду весь цикл: от сбора требований до тестирования на производстве. Пишу веб-приложения на React, Next.js и Vue 3, мобильные приложения на React Native и бэкенд на Go и Next.js. До разработки работал на заводе, поэтому знаю, как софт выглядит с точки зрения цеха, а не только кода. Параллельно делаю собственные веб и мобильные продукты.
 
-**English.** Fullstack developer with 3+ years of commercial experience, mostly on the frontend side. I build MES systems for industry and own the whole cycle, from requirements gathering to testing on the shop floor. Before development I worked in manufacturing, so I see software from the factory floor's point of view, not only from the code's. Self-taught. Right now I'm going deep on JavaScript, moving on to TypeScript and React, and building my own products on the side.
+**English.** Fullstack developer with 3+ years of commercial experience. I build MES systems for industry and own the whole cycle, from requirements gathering to testing on the shop floor. I write web apps in React, Next.js and Vue 3, mobile apps in React Native, and backends in Go and Next.js. Before development I worked in manufacturing, so I see software from the factory floor's point of view, not only from the code's. On the side I build my own web and mobile products.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
-**Фронтенд / Frontend**
+**Web**
 
-Vue 3 изнутри: реактивность, Composition API, `effectScope`. Рефакторинг больших компонентов, архитектура, поиск утечек памяти.
+React, Next.js, TypeScript, Vue 3. Рефакторинг больших компонентов, архитектура, поиск утечек памяти.
 
-Vue 3 internals, large component refactoring, architecture, memory leak hunting.
-
-</td>
-    <td width="33%" valign="top">
-
-**Бэкенд / Backend**
-
-Next.js, Prisma, PostgreSQL. Небольшие сервисы и внутренние инструменты на Go (Fiber).
-
-Next.js, Prisma, PostgreSQL. Small services and internal tools in Go (Fiber).
+Large component refactoring, architecture, memory leak hunting.
 
 </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
 
-**Продукт / Product**
+**Mobile**
 
-Ищу идею для собственного продукта: SaaS или Telegram Mini App.
+React Native и Expo. Приложения с Bluetooth-датчиками и картой.
 
-Looking for an idea for my own product: a SaaS or a Telegram Mini App.
+React Native and Expo. Apps with Bluetooth sensors and maps.
+
+</td>
+    <td width="25%" valign="top">
+
+**Backend**
+
+Go (Fiber), Next.js, Prisma, PostgreSQL. Сервисы и внутренние инструменты.
+
+Services and internal tools.
+
+</td>
+    <td width="25%" valign="top">
+
+**Product**
+
+Собственные продукты: SaaS и Telegram Mini App.
+
+My own products: SaaS and Telegram Mini Apps.
 
 </td>
   </tr>
@@ -88,41 +97,63 @@ Looking for an idea for my own product: a SaaS or a Telegram Mini App.
 <br />
 
 <div align="center">
-  <img id="stack" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42b883&text=Tech%20stack%20%2F%20Стек&height=90&fontSize=34&fontAlignY=50" alt="Tech stack" />
+  <img id="stack" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61dafb&text=Tech%20stack%20%2F%20Стек&height=90&fontSize=34&fontAlignY=50" alt="Tech stack" />
 
-<img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,tailwind,vite&perline=8" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,html,css&perline=8" alt="Web" />
 <br />
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,go,postgres,prisma,docker,git,github&perline=8" alt="Backend and tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,postgres,prisma,docker,git,github,vite&perline=8" alt="Backend and tools" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </div>
 
 <br />
 
 <div align="center">
-  <img id="projects" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42b883&text=Projects%20%2F%20Проекты&height=90&fontSize=34&fontAlignY=50" alt="Projects" />
+  <img id="projects" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61dafb&text=Projects%20%2F%20Проекты&height=90&fontSize=34&fontAlignY=50" alt="Projects" />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/RZhurakovskiy/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RZhurakovskiy&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
-      </a>
+      <a href="https://github.com/RZhurakovskiy/Live-Beat"><b>LiveBeat</b></a>
+      <br /><br />
+      Android-приложение для тренировок. Пульс с нагрудного датчика по Bluetooth, зоны нагрузки, GPS-трек на карте и разбор каждой тренировки. Все данные хранятся на телефоне.
+      <br /><br />
+      <sub>Android workout app. Heart rate from a chest strap over Bluetooth, intensity zones, a GPS track on the map and a breakdown of every workout. All data stays on the phone.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/RZhurakovskiy/prosto-schet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RZhurakovskiy&repo=prosto-schet&theme=tokyonight&hide_border=true" alt="prosto-schet" />
-      </a>
+      <b>ТочныйРасчёт</b>
+      <br /><br />
+      Сайт с 17 калькуляторами выплат и налогов по нормам 2026 года: увольнение, больничные, декретные, алименты, НДФЛ, ипотека.
+      <br /><br />
+      <sub>A website with 17 payroll and tax calculators following 2026 rules: dismissal pay, sick leave, maternity, alimony, income tax, mortgage.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/RZhurakovskiy/Live-Beat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RZhurakovskiy&repo=Live-Beat&theme=tokyonight&hide_border=true" alt="Live-Beat" />
-      </a>
+      <a href="https://github.com/RZhurakovskiy/nexora-nexus-oracle-insight"><b>Nexora</b></a>
+      <br /><br />
+      Мониторинг системы и управление процессами в реальном времени: CPU, RAM, процессы, порты, история метрик. Клиент на Vue 3, агент на Go.
+      <br /><br />
+      <sub>Real-time system monitoring and process management: CPU, RAM, processes, ports, metric history. Vue 3 client and a Go agent.</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" /> <img src="https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia" /> <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/WebSocket-1f2937?style=flat-square" alt="WebSocket" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/RZhurakovskiy/amada-cnc-simulator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RZhurakovskiy&repo=amada-cnc-simulator&theme=tokyonight&hide_border=true" alt="amada-cnc-simulator" />
-      </a>
+      <a href="https://github.com/RZhurakovskiy/aig-bor-glass-factory-vacansy-go-fiber"><b>HR Automotive</b></a>
+      <br /><br />
+      Коммерческий проект: сайт вакансий завода с админкой. Первая версия на Gulp, позже переписан на Go (Fiber).
+      <br /><br />
+      <sub>Commercial project: a factory careers website with an admin panel. First version on Gulp, later rewritten in Go (Fiber).</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Fiber-1f2937?style=flat-square" alt="Fiber" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Gulp-cf4647?style=flat-square&logo=gulp&logoColor=white" alt="Gulp" />
     </td>
   </tr>
 </table>
@@ -131,44 +162,12 @@ Looking for an idea for my own product: a SaaS or a Telegram Mini App.
 <br />
 
 <div align="center">
-  <img id="stats" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42b883&text=Stats%20%2F%20Статистика&height=90&fontSize=34&fontAlignY=50" alt="Stats" />
+  <img id="stats" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=61dafb&text=Stats%20%2F%20Статистика&height=90&fontSize=34&fontAlignY=50" alt="Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RZhurakovskiy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZhurakovskiy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RZhurakovskiy&layout=compact&hide=html,css,php&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=RZhurakovskiy&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=RZhurakovskiy&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RZhurakovskiy&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RZhurakovskiy&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img id="roadmap" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=42b883&text=Roadmap%20%2F%20Сейчас%20изучаю&height=90&fontSize=34&fontAlignY=50" alt="Roadmap" />
-</div>
-
-```mermaid
-flowchart LR
-    A[JavaScript Core] --> B[TypeScript]
-    B --> C[React]
-    C --> D[Go and backend]
-    D --> E[Own product]
-    style A fill:#f7df1e,color:#000
-    style B fill:#3178c6,color:#fff
-    style C fill:#61dafb,color:#000
-    style D fill:#00add8,color:#000
-    style E fill:#42b883,color:#fff
-```
-
-<div align="center">
+<br /><br />
 
 **Открыт к интересным задачам и сотрудничеству**
 <br />
